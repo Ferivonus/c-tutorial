@@ -1,2 +1,2 @@
-# c-tutorial-t-rk-e
+# c-tutorial-türkçe
 c türkçe tutorial yeni başlayanlar için
